@@ -26,9 +26,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=poastman&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
