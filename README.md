@@ -18,6 +18,7 @@
 <h4 align="center">Framework & Library</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/></a>&nbsp
   <br>
