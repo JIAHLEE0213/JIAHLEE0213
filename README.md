@@ -3,6 +3,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
+![JIAHLEE0213's GitHub stats] (https://github-readme-stats.vercel.app/api/top-langs/?username=JIAHLEE0213&layout=compact&theme=dracula)
 ![JIAHLEE0213's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIAHLEE0213&show_icons=true&theme=radical)
 </div>
 
