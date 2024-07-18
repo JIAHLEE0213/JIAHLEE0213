@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hi!✋🏻%20I'm%20Jiah&animation=scaleIn&fontColor=ffffff&color=0:FFE3EC,100:D14D72)
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-</div>
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <h4 align="center"> Languages</h4>
